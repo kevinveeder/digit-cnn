@@ -18,6 +18,5 @@ This project uses a Convolutional Neural Network (CNN) to classify handwritten d
  - Training and validation accuracy quickly reached ~99%
  - No significant overfitting observed
  - Model saved using best validation performance with `ModelCheckpoint`
- - Visualized loss and accuracy across 90+ epochs:
-<br>
-<!-- digit-cnn/visual_loss_accuracy -->
+ - [Visualized](github.com/kevinveeder/digit-cnn/visual_loss_accuracy.png) loss and accuracy across 90+ epochs 
+
