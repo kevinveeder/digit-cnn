@@ -20,4 +20,4 @@ This project uses a Convolutional Neural Network (CNN) to classify handwritten d
  - Model saved using best validation performance with `ModelCheckpoint`
  - [Visualized](https://github.com/kevinveeder/digit-cnn/blob/main/visual_loss_accuracy.png) loss and accuracy across 90+ epochs 
 
-Note: Before running the jupyter notebook file, unzip the data, test_train.zip
+Note: Before running the jupyter notebook file, unzip the data (`test_train.zip`)
